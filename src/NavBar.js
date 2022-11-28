@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function NavBar() {
   return (
     <nav>
-        <div>
+        <div className=' relative left-40'>
         <ul>
             <div>
             <li className="float-left p-4 text-lg font-semibold hover:text-red-700 hover:underline">

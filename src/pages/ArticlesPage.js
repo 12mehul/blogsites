@@ -4,7 +4,7 @@ import articles from './article-content';
 function ArticlesPage() {
   return (
     <div>
-        <h1> Our Articles</h1>
+        <h1 className=' font-semibold text-2xl pl-5'> Our Articles</h1>
         <ArticlesList articles={articles} />
     </div>
   )

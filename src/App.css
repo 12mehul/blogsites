@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.ArticlesList-container{
+  width: 800px;
+  padding: 30px;
+}
+.ArticlesList-title{
+  width: 500px;
+}
+.ArticlesList-content{
+  width: 500px;
+}
+.ArticlePage-title{
+  width: 900px;
+}
+.ArticlePage-paragraph{
+  width: 900px;
+}
